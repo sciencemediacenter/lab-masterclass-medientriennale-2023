@@ -117,7 +117,7 @@ create_state("thought_history", [])
 create_state("response_history", [])
 
 ### start page
-st.title("🏫 Custom Tutor-ChatBot")
+st.title("🏫 Custom Tutor-Chatbot")
 st.caption(
     "Prompt design taken from Plastic Labs' [Tutor-GPT](https://plasticlabs.ai/blog/Open-Sourcing-Tutor-GPT), [Code](https://github.com/plastic-labs/tutor-gpt)"
 )
